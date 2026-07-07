@@ -18,7 +18,7 @@ welcome.
 ## Development setup
 
 ```bash
-git clone https://github.com/<your-username>/ballast
+git clone https://github.com/Vibecoder012/ballast
 cd ballast
 python -m venv .venv && . .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -e ".[dev,keyring]"

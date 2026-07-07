@@ -50,10 +50,10 @@ keyring = ["keyring>=24"]
 dev = ["pytest>=8", "ruff>=0.6", "mypy>=1.11"]
 
 [project.urls]
-Homepage = "https://github.com/<your-username>/ballast"
-Repository = "https://github.com/<your-username>/ballast"
-Issues = "https://github.com/<your-username>/ballast/issues"
-Changelog = "https://github.com/<your-username>/ballast/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/Vibecoder012/ballast"
+Repository = "https://github.com/Vibecoder012/ballast"
+Issues = "https://github.com/Vibecoder012/ballast/issues"
+Changelog = "https://github.com/Vibecoder012/ballast/blob/main/CHANGELOG.md"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/ballast"]

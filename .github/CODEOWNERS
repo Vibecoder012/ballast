@@ -1,8 +1,8 @@
 # Default owners for everything in the repo. Replace with your GitHub handle/team.
-* @your-org/maintainers
+* @Vibecoder012
 
 # The correctness core is a public contract — require extra review on changes here.
-/src/ballast/events.py @your-org/maintainers
-/src/ballast/jobs.py @your-org/maintainers
-/src/ballast/migrations.py @your-org/maintainers
-/src/ballast/connection.py @your-org/maintainers
+/src/ballast/events.py @Vibecoder012
+/src/ballast/jobs.py @Vibecoder012
+/src/ballast/migrations.py @Vibecoder012
+/src/ballast/connection.py @Vibecoder012
