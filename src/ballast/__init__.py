@@ -57,7 +57,7 @@ from .schema import CORE_MIGRATIONS, install
 from .secrets import SecretStore
 from .snapshots import restore, snapshot
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 
 __all__ = [  # noqa: RUF022 - grouped by module for readability, not sorted
     "__version__",

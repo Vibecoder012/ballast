@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ballast.py"
-version = "0.1.1"
+version = "0.1.2"
 description = "Durable backend correctness for single-machine Python on one SQLite file: transactional outbox, exactly-once jobs, forward-only migrations, snapshots. Zero dependencies."
 readme = "README.md"
 requires-python = ">=3.10"

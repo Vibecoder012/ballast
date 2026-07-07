@@ -6,6 +6,13 @@ All notable changes to this project are documented here. The format is based on
 
 ## [Unreleased]
 
+## [0.1.2]
+
+### Fixed
+- The `v0.1.1` release tag failed to publish because the PyPI Trusted Publisher was
+  registered against a `release.yaml` workflow filename while the repo ships
+  `release.yml`. No code change; retagged to trigger a corrected publish.
+
 ## [0.1.1]
 
 ### Changed
