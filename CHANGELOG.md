@@ -6,6 +6,14 @@ All notable changes to this project are documented here. The format is based on
 
 ## [Unreleased]
 
+## [0.1.1]
+
+### Changed
+- **PyPI distribution renamed to `ballast.py`.** The plain `ballast` name on PyPI belongs
+  to an unrelated, actively-maintained load-balancing library, so the initial publish
+  failed. This is a packaging-only change: `pip install ballast.py` now, but `import
+  ballast` is unchanged and no code moved.
+
 ## [0.1.0] — initial release
 
 ### Added
