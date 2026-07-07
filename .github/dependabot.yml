@@ -1,0 +1,14 @@
+version: 2
+updates:
+  # The library has no runtime deps; this keeps dev tooling and CI actions current.
+  - package-ecosystem: pip
+    directory: "/"
+    schedule:
+      interval: weekly
+    groups:
+      dev-dependencies:
+        patterns: ["*"]
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: weekly
