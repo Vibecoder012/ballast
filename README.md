@@ -12,7 +12,7 @@ The guarantees you'd normally stand up Redis + Postgres + a broker for, delivere
 
 Built for the deployments that Temporal, Celery, and cloud queues structurally can't serve: **desktop apps, on-prem appliances, air-gapped / regulated environments, and CLIs that must be crash-safe on a single box.**
 
-[![CI](https://github.com/your-org/ballast/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/ballast/actions/workflows/ci.yml)
+[![CI](https://github.com/<your-username>/ballast/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/ballast/actions/workflows/ci.yml)
 [![PyPI](https://img.shields.io/pypi/v/ballast.svg)](https://pypi.org/project/ballast/)
 [![Python](https://img.shields.io/pypi/pyversions/ballast.svg)](https://pypi.org/project/ballast/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
